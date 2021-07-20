@@ -1,0 +1,24 @@
+.image{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.skill-img{
+    
+    height: 300px;
+    object-fit: cover;
+}
+
+.testimonial-image img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.bg-form{
+    background-color: lightpink;
+}
+
+
